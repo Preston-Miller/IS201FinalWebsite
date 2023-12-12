@@ -1,29 +1,29 @@
 body {
-    background-color: #D3D3D3; 
+    background-color: #bdbcbc; 
     font-family: Arial, sans-serif;
     color: #000000;
 }
 
 
 .div1 {
-    background-color: #ff9999; 
+    background-color: #00008B; 
     margin: 10px;
-    padding: 15px;
-    border: 2px solid #ff0000; 
+    width: 30%;
+    padding: 15px; 
 }
 
 
 .div2 {
-    background-color: #99ff99; 
+    background-color: #006400; 
     margin: 10px auto; 
     padding: 15px;
-    width: 50%; 
+    width: 30%; 
     text-align: center; 
 }
 
 
 .div3 {
-    background-color: #9999ff; 
+    background-color: #e6d264; 
     margin: 10px;
     padding: 15px;
     float: right; 
