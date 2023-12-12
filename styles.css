@@ -1,6 +1,7 @@
 body {
-    background-color: #808080; /* Background color for the body */
+    background-color: #D3D3D3; /* Background color for the body */
     font-family: Arial, sans-serif; /* Font family for the body */
+    color: #000000;
 }
 
 /* Styles for the first div */
